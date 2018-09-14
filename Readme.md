@@ -25,3 +25,7 @@ php baiduspider.php
 ### 未来开发
 
 ​	该项目属于个人无聊开发，随缘更新，语言看天，也可能做成网站方便大家查询，欢迎来帮助我一起开发
+
+### 更多爬虫
+
+  [又一个PHP图片爬虫](https://github.com/Chenjinyi/PHP-Images-Spider)
